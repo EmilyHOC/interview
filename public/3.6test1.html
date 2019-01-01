@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    ul{
+        counter-reset: digit;
+    }
+    ul li{
+        list-style: none;
+    }
+    ul li::before{
+
+        counter-increment: digit;
+        content: counter(digit)")";
+    }
+</style>
+<body>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JAVASCRIPT</li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        input[type="date"]{
+            position: relative;
+        }
+        input[type="date"]::before{
+           content: attr(placeholder);
+            color: #bbb;
+            position: absolute;
+            left: 5px;
+            top:0;
+        }
+
+
+    </style>
+</head>
+<body>
+    <input id="date" type="date" placeholder="请选择日期">
+<script>
+    var date=document.getElementById("date");
+    date.addEventListener("focus",function () {
+        this.removeAttribute("placeholder")
+    })
+    date.addEventListener("blur",function () {
+        var val=this.value;
+        if(!val){
+            this.setAttribute("placeholder","请选择日期")
+        }
+    })
+</script>
+</body>
+</html>

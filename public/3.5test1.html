@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .bfc>ul{
+            list-style: none;
+        }
+        .bfc1+div{
+            background: #6231fb;
+        }
+        .bfc2~div{
+            background: #61dafb;
+        }
+    </style>
+</head>
+<body>
+    <div class="bfc">
+        <ul>
+            <li>孙子1</li>
+            <li>孙子2</li>
+        </ul>
+    </div>
+<div>==================</div>
+<div class="bfc1"></div>
+    <div>与bfc1是相邻关系</div>
+    <div>与bfc1是兄弟关系</div>
+<div>=====================</div>
+    <div class="bfc2"></div>
+    <div>与bfc2是相邻关系</div>
+    <div>与bfc2是兄弟关系</div>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .d-list{
+            display: list-item;
+            list-style-position: inside;
+            list-style-type: circle;
+        }
+        .d-inline-block{
+            display: inline-block;
+            border: 1px solid #eeeeee;
+        }
+        #inlineb-test1{
+            /*font-size: 0;*/
+        }
+        #inlineb-test3{
+            letter-spacing: -5px
+        }
+        #inlineb-test3 span{
+            letter-spacing: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="d-list">1</div>
+    <div class="d-list">2</div>
+    <div class="d-list">3</div>
+    <span style="display: run-in;border: 1px solid #000;">
+        兄弟元素的第一个行内元素
+    </span>
+    <p>相邻兄弟元素是块级元素</p>
+    <div>=========================</div>
+    <div id="inlineb-test0">
+        <span class="d-inline-block">行内块元素</span>
+        <span class="d-inline-block">行内块元素</span>
+        <span class="d-inline-block">行内块元素</span>
+    </div>
+    <div>=========================</div>
+    <div id="inlineb-test1">
+        <span class="d-inline-block">行内块元素</span>
+        <span class="d-inline-block">行内块元素</span>
+        <span class="d-inline-block">行内块元素</span>
+    </div>
+    <div>=========================</div>
+    <div id="inlineb-test2">
+        <span class="d-inline-block">行内块元素</span><span class="d-inline-block">行内块元素</span><span class="d-inline-block">行内块元素</span>
+    </div>
+    <div>=========================</div>
+    <div id="inlineb-test3">
+        <span class="d-inline-block">行内块元素</span>
+        <span class="d-inline-block">行内块元素</span>
+        <span class="d-inline-block">行内块元素</span>
+    </div>
+    <div>=========================</div>
+    <div style="display: none">
+        <img src="../content/第三章%20CSS基础/1.png">
+    </div>
+    <div style="visibility: hidden">
+        <img src="../content/第三章%20CSS基础/1.png">
+    </div>
+</body>
+</html>

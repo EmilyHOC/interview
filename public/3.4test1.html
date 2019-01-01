@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    .test1 li{
+        width:200px;
+        height: 200px;
+        background: #61dafb;
+        border: 1px solid #000;
+        list-style: none;
+    }
+    .bfcc{
+        width:200px;
+        height: 200px;
+        background: #6231fb;
+        border: 1px solid #222;
+        overflow: hidden;/*创建bfc*/
+    }
+</style>
+<body>
+    <ul style="overflow: hidden" class="test1">
+        <li style="float: left"></li>
+    </ul>
+    <span>外部文案</span>
+    <div>=================</div>
+    <span style="float: left">外部文案</span>
+    <div class="bfcc"></div>
+    <div>=================</div>
+    <div>
+        <ul style="background: #6231fb;"><!--没有清除浮动-->
+            <li style="float: left;background: #61dafb;height: 100px;width:100px"></li>
+        </ul>
+    </div>
+
+</body>
+</html>
