@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+    div{
+        float: left;
+        width:80px;
+        height: 80px;
+        background-color: #FFCC00;
+    }
+    P{
+        margin-top: 15px;
+    }
+        section::after{
+            content: "";
+            clear:both ;
+            visibility: hidden;
+            display: block;
+            height: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <section >
+        <div></div>
+        <p >已设置上外边距</p>
+    </section>
+
+</body>
+</html>
