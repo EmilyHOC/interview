@@ -1,6 +1,6 @@
 ### 6.1数据类型
 * 基本类型：undefined,number,null,boolean,string,symbol
-* 引用类型： Object,function(一种可以执行的对象)，Array(数值线标，内部数据有序)
+* 引用类型： Object,function(一种可以执行的对象)，Array(数值下标，内部数据有序)
 * typeof(返回数据类型的字符串表达)
 * instanceof(判断对象的具体类型)
 * ===(可以判断undefined,null)
@@ -30,7 +30,7 @@ console.log(typeof a===undefined)
  ### 6.2引用变量赋值问题
  * 2个引用变量指向同一个对象，通过一个变量修改对象内部的数据，另一个变量看到的是修改之后的数据
     ![](https://user-gold-cdn.xitu.io/2019/1/4/168170342eb1d568?w=395&h=207&f=png&s=19338)
- *2个引用变量指向同一个对象，让其中一个变量指向另一个对象，另一个引用变量依然指向前一个对象 
+ * 2个引用变量指向同一个对象，让其中一个变量指向另一个对象，另一个引用变量依然指向前一个对象 
     ![](https://user-gold-cdn.xitu.io/2019/1/4/1681707eb08efc95?w=477&h=208&f=png&s=20978)
  ### 6.3关于数据传递的问题
  * 在js调用函数的是值传递还是引用传递
