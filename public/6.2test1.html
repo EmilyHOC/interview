@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script>
+        var obj1={name:'Tome'};
+        var obj2=obj1;
+        obj2.age=12
+        console.log(obj1.age)
+        function fn(obj){
+            obj.name='A'
+        }
+        fn(obj1);
+        console.log(obj2.name)
+    </script>
+</body>
+</html>
