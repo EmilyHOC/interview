@@ -1,6 +1,6 @@
 ### 6.1数据类型
 * 基本类型：undefined,number,null,boolean,string,symbol
-* 引用类型： Object,function(一种可以执行的对象)，Array(数值线标，内部数据有序)
+* 引用类型： Object,function(一种可以执行的对象)，Array(数值下标，内部数据有序)
 * typeof(返回数据类型的字符串表达)
 * instanceof(判断对象的具体类型)
 * ===(可以判断undefined,null)
