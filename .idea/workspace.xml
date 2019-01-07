@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/content/第三章 CSS基础/Readme.md" line="110" />
+    <bookmark url="file://$PROJECT_DIR$/content/第三章 CSS基础/Readme.md" line="126" />
+    <bookmark url="file://$PROJECT_DIR$/public/4.1test2.html" line="22" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4670d8f-bec1-4c6b-88de-ab4baa7eb962" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../React/React/code/react_test/prepare/testref.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../React/React/code/react_test/work/qr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/第三章 CSS基础/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/第三章 CSS基础/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/第三章 CSS基础/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/第三章 CSS基础/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.10test1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.2test3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.2test4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.3test1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.4test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.4test3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.4test4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.5test1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.5test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.6test1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.6test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/3.9test1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-demo/src/common/image/bookmovie.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-demo/src/common/image/header.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-demo/src/common/image/mine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-demo/src/components/BookMovie/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-demo/src/components/Home/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-demo/src/components/Home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-demo/src/components/Mine/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-demo/src/components/Mine/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-demo/src/containers/link/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-demo/src/containers/link/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-demo/src/containers/mainHeader/mainheader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-demo/src/containers/mainHeader/mianheader.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../my-app/src/Board.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../my-app/src/Game.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../my-app/src/Square.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test2/src/jest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test2/src/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test2/src/qr.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../009_IT教程吧-JS高级/源码_课件/源码_课件/JSAdvance/work/01_基础总结深入/.idea/01_基础总结深入.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../009_IT教程吧-JS高级/源码_课件/源码_课件/JSAdvance/work/01_基础总结深入/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../009_IT教程吧-JS高级/源码_课件/源码_课件/JSAdvance/work/01_基础总结深入/.idea/misc.xml" beforeDir="false" />
@@ -2314,6 +2308,9 @@
       <change beforePath="$PROJECT_DIR$/../ftp/服务器root目录/客户端要下载的文本.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ftp/服务器root目录/服务器接收到的文本.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/第六章 JavaScript/ReadME.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/第六章 JavaScript/ReadME.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../server/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../server/src/components/Header.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../server/src/containers/Home/store/actions.js" beforeDir="false" />
@@ -2383,11 +2380,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/第三章 CSS基础/Readme.md">
+        <entry file="file://$PROJECT_DIR$/content/第五章 CSS应用/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="478">
-                <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
+              <first_editor relative-caret-position="1197">
+                <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/综合面试类">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/第六章 JavaScript/ReadME.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="38">
+                <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -2395,91 +2414,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/3.10test1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <entry file="file://$PROJECT_DIR$/content/第七章 MongoDB数据库基础/ReadMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-550">
+                <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/3.9test1.html">
+        <entry file="file://$PROJECT_DIR$/public/6.6test1原型链_属性问题.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/3.8test1.html">
+        <entry file="file://$PROJECT_DIR$/public/6.2test2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="190">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/3.6test2.html">
+        <entry file="file://$PROJECT_DIR$/public/6.2test1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="304">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/3.4test4.html">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state relative-caret-position="171">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/3.4test3.html">
+        <entry file="file://$PROJECT_DIR$/public/5.4test3.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/3.4test1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="35" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#span#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/3.4test2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -2508,7 +2497,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -2529,16 +2518,35 @@
         <option value="$PROJECT_DIR$/public/3.6test2.html" />
         <option value="$PROJECT_DIR$/public/3.8test1.html" />
         <option value="$PROJECT_DIR$/public/3.9test1.html" />
-        <option value="$PROJECT_DIR$/content/第三章 CSS基础/Readme.md" />
         <option value="$PROJECT_DIR$/public/3.10test1.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/content/第三章 CSS基础/Readme.md" />
+        <option value="$PROJECT_DIR$/public/4.1test.html" />
+        <option value="$PROJECT_DIR$/public/4.1test2.html" />
+        <option value="$PROJECT_DIR$/public/4.4test1.html" />
+        <option value="$PROJECT_DIR$/public/4.6test1.html" />
+        <option value="$PROJECT_DIR$/public/4.7test2.html" />
+        <option value="$PROJECT_DIR$/content/第四章CSS属性/Readme.md" />
+        <option value="$PROJECT_DIR$/public/5.1test1.html" />
+        <option value="$PROJECT_DIR$/public/5.3test1.html" />
+        <option value="$PROJECT_DIR$/public/5.4test1.html" />
+        <option value="$PROJECT_DIR$/public/5.4test2.html" />
+        <option value="$PROJECT_DIR$/public/5.4test3.html" />
+        <option value="$PROJECT_DIR$/content/第五章 CSS应用/Readme.md" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/content/第六章 路由/Readme.md" />
+        <option value="$PROJECT_DIR$/public/6.2test1.html" />
+        <option value="$PROJECT_DIR$/public/6.2test2.html" />
+        <option value="$PROJECT_DIR$/content/第六章 JavaScript/ReadME.md" />
+        <option value="$PROJECT_DIR$/content/第七章 MongoDB数据库基础/ReadMe.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="363" />
-    <option name="y" value="135" />
-    <option name="width" value="1378" />
-    <option name="height" value="735" />
+    <option name="x" value="14" />
+    <option name="y" value="96" />
+    <option name="width" value="1304" />
+    <option name="height" value="923" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -2563,12 +2571,23 @@
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="第三章 CSS基础" type="462c0819:PsiDirectoryNode" />
+              <item name="第七章 MongoDB数据库基础" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="第六章 JavaScript" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2588,7 +2607,12 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\10579\Desktop\interview\public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10579\Desktop\interview\content\第六章 JavaScript" />
+      <recent name="C:\Users\10579\Desktop\interview\content\第四章CSS属性" />
       <recent name="C:\Users\10579\Desktop\interview\content\第三章 CSS基础" />
     </key>
   </component>
@@ -2615,18 +2639,23 @@
       <option name="presentableId" value="Default" />
       <updated>1546330871132</updated>
       <workItem from="1546330877535" duration="14917000" />
-      <workItem from="1546349980360" duration="3768000" />
+      <workItem from="1546349980360" duration="4908000" />
+      <workItem from="1546420703640" duration="7589000" />
+      <workItem from="1546494177838" duration="3844000" />
+      <workItem from="1546499612698" duration="3946000" />
+      <workItem from="1546504535727" duration="667000" />
+      <workItem from="1546572558138" duration="10215000" />
+      <workItem from="1546842249743" duration="123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18685000" />
+    <option name="totallyTimeSpent" value="46209000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="225" y="92" width="1378" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="14" y="96" width="1304" height="923" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2931854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -2639,8 +2668,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947312" visible="true" weight="0.37354085" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -2742,6 +2771,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/第三章 CSS基础/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="137">
+            <caret line="169" column="6" selection-start-line="169" selection-start-column="6" selection-end-line="169" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/3.10test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/3.9test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/3.8test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/3.6test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/4.1test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/4.1test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/4.4test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/4.6test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/4.7test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/3.4test3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -2765,6 +2875,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/5.4test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="29" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/5.4test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/5.1test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/5.3test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/3.4test2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -2773,6 +2914,104 @@
             <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/第六章 路由/Readme.md" />
+    <entry file="file://$PROJECT_DIR$/content/第四章 CSS属性/Readme.md">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1349">
+            <caret line="71" column="16" selection-end-line="95" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../React/React/code/react_test/work/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://E:/1-coding/4_Vedio/6_web/尚硅谷/009_IT教程吧-JS高级/源码_课件/源码_课件/JSAdvance/prepare/02_函数高级/01_原型与原型链/06_面试题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="43" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/第五章 CSS应用/Readme.md">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1197">
+            <caret line="63" column="36" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/综合面试类">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/6.6test1原型链_属性问题.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/6.2test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/6.2test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/5.4test3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -2788,41 +3027,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/3.6test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/3.8test1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/3.9test1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/第三章 CSS基础/Readme.md">
+    <entry file="file://$PROJECT_DIR$/content/第六章 JavaScript/ReadME.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="478">
-            <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
+          <first_editor relative-caret-position="38">
+            <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/3.10test1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+    <entry file="file://$PROJECT_DIR$/content/第七章 MongoDB数据库基础/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-550">
+            <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
